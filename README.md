@@ -121,16 +121,6 @@ Five-fold cross-validation was performed for XGBoost.
 | F1 | 95.23% ± 0.54% | **95.52% ± 0.58%** |
 | ROC-AUC | 0.9860 ± 0.0039 | **0.9869 ± 0.0040** |
 
-## Repository Structure
-
-```text
-Health-Prediction-ML/
-├── Health_Prediction.ipynb
-├── dataset.csv
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
 
 ## Technologies Used
 
